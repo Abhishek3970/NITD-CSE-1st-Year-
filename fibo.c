@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+  printf("C program to print nth febonacci no,\n");
   int a,b,c,d;
   printf("input: ");
   scanf("%d",&d);
